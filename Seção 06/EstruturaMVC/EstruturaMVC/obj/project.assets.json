@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
-      "projectName": "ProjetoZero",
-      "projectPath": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
+      "projectName": "EstruturaMVC",
+      "projectPath": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
+      "outputPath": "D:\\ProjetosVS\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
